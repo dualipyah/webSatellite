@@ -1,0 +1,16 @@
+.outside{
+    padding: 50px;
+
+}
+
+.box1 .box2 .box3 .box4{
+   border-style:solid 2px;
+}
+
+.centerText{
+    text-align: center;
+}
+
+.textOnRight{
+    text-align: right;
+}

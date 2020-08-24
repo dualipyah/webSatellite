@@ -1,0 +1,41 @@
+<html>
+<head>
+    <title>test<title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <div class="container">
+        <div class="outside">
+            <div class="row1">
+                <div class="box1">
+                        <div class="centerText">
+                            <p> This is a test paragraph </p> 
+                        </div>  
+                </div>
+
+                <div class="box2">
+                        <div class="image2">
+                                <img src="https://s.w.org/images/backgrounds/wordpress-bg-medblue-square.png">
+                        </div>
+                <div>
+            </div>
+
+              <div class="row2">   
+                <div class="box3">
+                            <div class="image2">
+                                <img src="https://s.w.org/images/backgrounds/wordpress-bg-medblue-square.png">
+                        </div>
+                </div>
+                <div class="box4">
+                        <p class="textOnRight">Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+</p>
+                </div>
+            </div>
+
+        </div>
+        
+
+    </div>
+</body>
+<html>
